@@ -1,4 +1,4 @@
-# Name: Abdullah AL Noman 
+# Name: Abdullah Al Noman 
 # ID: 232-35-003 Section: 41_A2
 #!/bin/bash
 read -p "Enter a limit: " n
