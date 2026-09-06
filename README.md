@@ -226,3 +226,9 @@ attribution.
 **Happy learning! 🐧 — Fork it, star it, share it, and let's make Linux accessible to everyone.**
 
 </div>
+
+---
+
+**👨‍🎓 Abdullah Al Noman**  
+🔗 [LinkedIn](https://www.linkedin.com/in/abdullahalnoman003) •  
+🔗 [Github](https://github.com/abdullahalnoman003) •  
